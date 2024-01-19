@@ -1,0 +1,7269 @@
+{
+  "root": "/Users/sasakimariko/afterhours-vue/nuxt-app",
+  "modules": [
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 7
+        },
+        {
+          "name": "vite:define",
+          "transform": 72
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 79,
+      "invokeCount": 1,
+      "sourceSize": 391,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 149
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 150,
+      "invokeCount": 1,
+      "sourceSize": 130,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/about.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 1527
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1527,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio1.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 198
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 198,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio2.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 213
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 213,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio3.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 204
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 204,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio4.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 189
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 189,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio5.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 185
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 185,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio6.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 172
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 172,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio7.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 197
+        },
+        {
+          "name": "nuxt:runtime-paths-dep",
+          "transform": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 197,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/common.scss",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 107
+        },
+        {
+          "name": "vite:css",
+          "transform": 7005
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 7112,
+      "invokeCount": 1,
+      "sourceSize": 3691,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/common.scss?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "alias",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/style.scss",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 546
+        },
+        {
+          "name": "vite:css",
+          "transform": 4979
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5525,
+      "invokeCount": 1,
+      "sourceSize": 3415,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/style.scss?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalFooter.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1592
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1594,
+      "invokeCount": 1,
+      "sourceSize": 1261,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalHeader.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1547
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        },
+        {
+          "name": "nuxt:route-injection-plugin",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1553,
+      "invokeCount": 1,
+      "sourceSize": 1746,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/MyLogo.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 70
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 72,
+      "invokeCount": 1,
+      "sourceSize": 127,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkList.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1480
+        },
+        {
+          "name": "vite:vue",
+          "transform": 9
+        },
+        {
+          "name": "nuxt:route-injection-plugin",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1490,
+      "invokeCount": 1,
+      "sourceSize": 1818,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkList.vue?vue&type=style&index=0&scoped=bbb32c9b&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 18
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 19,
+      "invokeCount": 1,
+      "sourceSize": 155,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkexInner.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1484
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1489,
+      "invokeCount": 1,
+      "sourceSize": 1867,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkexInner.vue?vue&type=style&index=0&scoped=059b8878&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 5
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 7,
+      "invokeCount": 1,
+      "sourceSize": 556,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 325
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 328,
+      "invokeCount": 1,
+      "sourceSize": 961,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 13,
+      "invokeCount": 1,
+      "sourceSize": 344,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1528
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1535,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 20
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        }
+      ],
+      "virtual": true,
+      "totalTime": 26,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1533
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1538,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 9
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 12,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1539
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1543,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 10
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 14,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/dom/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4699
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4699,
+      "invokeCount": 1,
+      "sourceSize": 4451,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/shared/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1474
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1474,
+      "invokeCount": 1,
+      "sourceSize": 20287,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4707
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4707,
+      "invokeCount": 1,
+      "sourceSize": 3864,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1521
+        },
+        {
+          "name": "vite:define",
+          "transform": 352
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1873,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1503
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1503,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/api.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 7
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 7,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/app.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/component.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 8
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/context.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/hooks.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 10
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 10,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 35
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 35,
+      "invokeCount": 1,
+      "sourceSize": 169,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/api/util.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/const.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 114,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/env.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 34,
+      "invokeCount": 1,
+      "sourceSize": 383,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 10
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 10,
+      "invokeCount": 1,
+      "sourceSize": 1009,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/plugin.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 11,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/proxy.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 32
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 32,
+      "invokeCount": 1,
+      "sourceSize": 3533,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/devtools-api/lib/esm/time.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 42
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 42,
+      "invokeCount": 1,
+      "sourceSize": 640,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 3
+        },
+        {
+          "name": "vite:define",
+          "transform": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 34136,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 12
+        },
+        {
+          "name": "vite:define",
+          "transform": 37
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 49,
+      "invokeCount": 1,
+      "sourceSize": 250536,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 132
+        },
+        {
+          "name": "vite:define",
+          "transform": 1910
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 2042,
+      "invokeCount": 1,
+      "sourceSize": 48134,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@vue/shared/dist/shared.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 158
+        },
+        {
+          "name": "vite:define",
+          "transform": 77
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 235,
+      "invokeCount": 1,
+      "sourceSize": 20552,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/bootstrap/scss/bootstrap.scss",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 15
+        },
+        {
+          "name": "vite:resolve (+alias)",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/cookie-es/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 152
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 152,
+      "invokeCount": 1,
+      "sourceSize": 3644,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/defu/dist/defu.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 141
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 141,
+      "invokeCount": 1,
+      "sourceSize": 2052,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/destr/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 205
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 205,
+      "invokeCount": 1,
+      "sourceSize": 2207,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 162
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 5
+        }
+      ],
+      "virtual": false,
+      "totalTime": 162,
+      "invokeCount": 1,
+      "sourceSize": 141,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/src/constants.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 39
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 183,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/src/parse.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 293
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 293,
+      "invokeCount": 1,
+      "sourceSize": 3053,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/src/stringify.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 291
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 291,
+      "invokeCount": 1,
+      "sourceSize": 4304,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/src/uneval.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 284
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 284,
+      "invokeCount": 1,
+      "sourceSize": 6924,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/devalue/src/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 43
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 43,
+      "invokeCount": 1,
+      "sourceSize": 1944,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/h3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 191
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 191,
+      "invokeCount": 1,
+      "sourceSize": 60223,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/hookable/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 166
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 166,
+      "invokeCount": 1,
+      "sourceSize": 8302,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/iron-webcrypto/dist/index.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 156
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 156,
+      "invokeCount": 1,
+      "sourceSize": 11782,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/klona/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 6
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6,
+      "invokeCount": 1,
+      "sourceSize": 1531,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/normalize.css/normalize.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 558
+        },
+        {
+          "name": "vite:css",
+          "transform": 4967
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5525,
+      "invokeCount": 1,
+      "sourceSize": 6138,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/normalize.css/normalize.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 0,
+      "sourceSize": 0,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1477
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1477,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4803
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4803,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4805
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4805,
+      "invokeCount": 1,
+      "sourceSize": 711,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 120
+        },
+        {
+          "name": "vite:vue",
+          "transform": 10
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 131,
+      "invokeCount": 1,
+      "sourceSize": 1688,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-layout.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1611
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1611,
+      "invokeCount": 1,
+      "sourceSize": 4383,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 198
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 199,
+      "invokeCount": 1,
+      "sourceSize": 10331,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 69
+        },
+        {
+          "name": "vite:vue",
+          "transform": 35
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 3
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 108,
+      "invokeCount": 1,
+      "sourceSize": 2279,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 58
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 77
+        }
+      ],
+      "virtual": false,
+      "totalTime": 58,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/test-component-wrapper.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 171
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 171,
+      "invokeCount": 1,
+      "sourceSize": 943,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1520
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1688
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1521,
+      "invokeCount": 1,
+      "sourceSize": 4019,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/chunk.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4706
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4706,
+      "invokeCount": 1,
+      "sourceSize": 889,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 206
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4833
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 206,
+      "invokeCount": 1,
+      "sourceSize": 1236,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4689
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4689,
+      "invokeCount": 1,
+      "sourceSize": 984,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 212
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 213,
+      "invokeCount": 1,
+      "sourceSize": 3862,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 1600,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4718
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4718,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 198
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4897
+        },
+        {
+          "name": "alias",
+          "resolveId": 4858
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 199,
+      "invokeCount": 1,
+      "sourceSize": 5939,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 141
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 1748
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1889,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 2290,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4950
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4950,
+      "invokeCount": 1,
+      "sourceSize": 356,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 48
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        },
+        {
+          "name": "vite:define",
+          "transform": 580
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 648
+        },
+        {
+          "name": "alias",
+          "resolveId": 182
+        },
+        {
+          "name": "alias",
+          "resolveId": 143
+        },
+        {
+          "name": "alias",
+          "resolveId": 135
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 631,
+      "invokeCount": 1,
+      "sourceSize": 6990,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/plugins/check-outdated-build.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 56
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 795,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/plugins/chunk-reload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 64
+        }
+      ],
+      "virtual": false,
+      "totalTime": 64,
+      "invokeCount": 1,
+      "sourceSize": 1042,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/plugins/payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 52
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 52,
+      "invokeCount": 1,
+      "sourceSize": 1107,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/plugins/revive-payload.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 21
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 24,
+      "invokeCount": 1,
+      "sourceSize": 1661,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 3,
+      "invokeCount": 1,
+      "sourceSize": 84,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 67
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 67,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1609
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1610,
+      "invokeCount": 1,
+      "sourceSize": 5646,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/plugins/prefetch.client.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 60
+        }
+      ],
+      "virtual": false,
+      "totalTime": 60,
+      "invokeCount": 1,
+      "sourceSize": 1243,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 29
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 7
+        }
+      ],
+      "virtual": false,
+      "totalTime": 39,
+      "invokeCount": 1,
+      "sourceSize": 7324,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4964
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4964,
+      "invokeCount": 1,
+      "sourceSize": 1714,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 189
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 190,
+      "invokeCount": 1,
+      "sourceSize": 873,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4797
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4800,
+      "invokeCount": 1,
+      "sourceSize": 974,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/ofetch/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 527
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 527,
+      "invokeCount": 1,
+      "sourceSize": 891,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/ofetch/dist/shared/ofetch.00501375.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 306
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 306,
+      "invokeCount": 1,
+      "sourceSize": 8818,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/pathe/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1542
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1542,
+      "invokeCount": 1,
+      "sourceSize": 272,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/pathe/dist/shared/pathe.ff20891b.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 64
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 64,
+      "invokeCount": 1,
+      "sourceSize": 6539,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/radix3/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 140
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 140,
+      "invokeCount": 1,
+      "sourceSize": 7089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/ufo/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 64
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 5
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 64,
+      "invokeCount": 1,
+      "sourceSize": 16557,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/uncrypto/dist/crypto.web.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 156
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 156,
+      "invokeCount": 1,
+      "sourceSize": 348,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 203
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 203,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/_internal/utils.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 240
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 240,
+      "invokeCount": 1,
+      "sourceSize": 895,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/events/_events.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 8
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 8,
+      "invokeCount": 1,
+      "sourceSize": 6481,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/events/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 52
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 52,
+      "invokeCount": 1,
+      "sourceSize": 218,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/http/_request.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 129
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 1129,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/http/_response.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 140
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 140,
+      "invokeCount": 1,
+      "sourceSize": 2193,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/net/socket.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 246
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 246,
+      "invokeCount": 1,
+      "sourceSize": 1425,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/stream/duplex.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 56
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 56,
+      "invokeCount": 1,
+      "sourceSize": 678,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/stream/readable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 247
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 247,
+      "invokeCount": 1,
+      "sourceSize": 2697,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unenv/runtime/node/stream/writable.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 239
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 239,
+      "invokeCount": 1,
+      "sourceSize": 2357,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unhead/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1523
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 1523,
+      "invokeCount": 1,
+      "sourceSize": 20887,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/vue-router/dist/vue-router.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4796
+        },
+        {
+          "name": "vite:define",
+          "transform": 2163
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 6959,
+      "invokeCount": 1,
+      "sourceSize": 147386,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 53
+        },
+        {
+          "name": "vite:define",
+          "transform": 577
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 630,
+      "invokeCount": 1,
+      "sourceSize": 580,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4930
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4932,
+      "invokeCount": 1,
+      "sourceSize": 1753,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4958
+        },
+        {
+          "name": "vite:vue",
+          "transform": 9
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4970,
+      "invokeCount": 1,
+      "sourceSize": 1753,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue?vue&type=style&index=0&scoped=67053315&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 5
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 245,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 420
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 424,
+      "invokeCount": 1,
+      "sourceSize": 648,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4976
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4980,
+      "invokeCount": 1,
+      "sourceSize": 648,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue?vue&type=style&index=0&scoped=9b63ec19&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 1813
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1814,
+      "invokeCount": 1,
+      "sourceSize": 316,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 412
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 414,
+      "invokeCount": 1,
+      "sourceSize": 2733,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4949
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4953,
+      "invokeCount": 1,
+      "sourceSize": 2733,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 9
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 14,
+      "invokeCount": 1,
+      "sourceSize": 698,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex1.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 415
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 416,
+      "invokeCount": 1,
+      "sourceSize": 624,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex1.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4927
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4931,
+      "invokeCount": 1,
+      "sourceSize": 624,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex2.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 416
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 418,
+      "invokeCount": 1,
+      "sourceSize": 665,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex2.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4916
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4924,
+      "invokeCount": 1,
+      "sourceSize": 665,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex3.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 411
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 412,
+      "invokeCount": 1,
+      "sourceSize": 660,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex3.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4932
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4936,
+      "invokeCount": 1,
+      "sourceSize": 660,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex4.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 281
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 282,
+      "invokeCount": 1,
+      "sourceSize": 582,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex4.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4949
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4951,
+      "invokeCount": 1,
+      "sourceSize": 582,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex7.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 282
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 283,
+      "invokeCount": 1,
+      "sourceSize": 647,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex7.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 4952
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 4955,
+      "invokeCount": 1,
+      "sourceSize": 647,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 78,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 34,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 6
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 94,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 128,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/layouts.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 135,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 368,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/nitro.client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 70,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 7
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1180,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 53,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 622,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/plugins/client.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 1393,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 6
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 122,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 267,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "vite:build-import-analysis",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 1,
+      "sourceSize": 3974,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/test-component-wrapper.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 131,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 4
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 1,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ],
+  "ssrModules": [
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/app.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 96
+        },
+        {
+          "name": "vite:define",
+          "transform": 30
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 126,
+      "invokeCount": 1,
+      "sourceSize": 391,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/app.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 202
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 206,
+      "invokeCount": 1,
+      "sourceSize": 130,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/about.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 136
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 136,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio1.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 82
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio2.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 81
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio3.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 80
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 80,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio4.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 82
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio5.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 83
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 83,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio6.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 84
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 84,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/image/portforio7.png",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:asset",
+          "transform": 81
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 81,
+      "invokeCount": 1,
+      "sourceSize": 41,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/common.scss",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5711
+        },
+        {
+          "name": "vite:css",
+          "transform": 5869
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 11580,
+      "invokeCount": 1,
+      "sourceSize": 3691,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/common.scss?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 15
+        },
+        {
+          "name": "vite:css",
+          "transform": 5706
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5722,
+      "invokeCount": 1,
+      "sourceSize": 3691,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/style.scss",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5696
+        },
+        {
+          "name": "vite:css",
+          "transform": 97
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5793,
+      "invokeCount": 1,
+      "sourceSize": 3415,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/assets/sass/style.scss?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "vite:css",
+          "transform": 177
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 178,
+      "invokeCount": 1,
+      "sourceSize": 3415,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalFooter.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 31
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 35,
+      "invokeCount": 1,
+      "sourceSize": 1261,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalHeader.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 26,
+      "invokeCount": 1,
+      "sourceSize": 1746,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/MyLogo.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 20
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 21,
+      "invokeCount": 1,
+      "sourceSize": 127,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkList.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 113
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 121,
+      "invokeCount": 1,
+      "sourceSize": 1818,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkList.vue?vue&type=style&index=0&scoped=bbb32c9b&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 3
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 155,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkexInner.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 85
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 89,
+      "invokeCount": 1,
+      "sourceSize": 1867,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkexInner.vue?vue&type=style&index=0&scoped=059b8878&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 4
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 5,
+      "invokeCount": 1,
+      "sourceSize": 556,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 52
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 961,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 2
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 2,
+      "invokeCount": 1,
+      "sourceSize": 344,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 8
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 9,
+      "invokeCount": 1,
+      "sourceSize": 344,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 51
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 2
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 64,
+      "invokeCount": 1,
+      "sourceSize": 5283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 14
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 19,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue?vue&type=style&index=0&scoped=ccd3db62&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css",
+          "transform": 36
+        },
+        {
+          "name": "vite:vue",
+          "transform": 7
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 44,
+      "invokeCount": 1,
+      "sourceSize": 3195,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 68
+        },
+        {
+          "name": "vite:vue",
+          "transform": 6
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 78,
+      "invokeCount": 1,
+      "sourceSize": 3283,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 11
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        }
+      ],
+      "virtual": true,
+      "totalTime": 16,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue?vue&type=style&index=0&scoped=df79c84d&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css",
+          "transform": 16
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 20,
+      "invokeCount": 1,
+      "sourceSize": 1494,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 83
+        },
+        {
+          "name": "vite:vue",
+          "transform": 4
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:imports-transform",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 91,
+      "invokeCount": 1,
+      "sourceSize": 4089,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue?vue&type=style&index=0&scoped=51ccc917&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 12
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 15,
+      "invokeCount": 1,
+      "sourceSize": 1946,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5781
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 11
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5781,
+      "invokeCount": 1,
+      "sourceSize": 3864,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 125
+        },
+        {
+          "name": "vite:define",
+          "transform": 23
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 10
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 148,
+      "invokeCount": 1,
+      "sourceSize": 2633,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 127
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 2
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 4
+        }
+      ],
+      "virtual": false,
+      "totalTime": 129,
+      "invokeCount": 1,
+      "sourceSize": 1035,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/normalize.css/normalize.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5670
+        },
+        {
+          "name": "vite:css",
+          "transform": 26
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5696,
+      "invokeCount": 1,
+      "sourceSize": 6138,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/normalize.css/normalize.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 41
+        },
+        {
+          "name": "vite:css",
+          "transform": 18
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 59,
+      "invokeCount": 1,
+      "sourceSize": 6138,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/compat/idle-callback.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 34
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 34,
+      "invokeCount": 1,
+      "sourceSize": 456,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/injections.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5878
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5878,
+      "invokeCount": 1,
+      "sourceSize": 103,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/island-renderer.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5883
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5883,
+      "invokeCount": 1,
+      "sourceSize": 711,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-error-page.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 151
+        },
+        {
+          "name": "vite:vue",
+          "transform": 18
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 170,
+      "invokeCount": 1,
+      "sourceSize": 1688,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-layout.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 308
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 3
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 311,
+      "invokeCount": 1,
+      "sourceSize": 4383,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-link.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 172
+        },
+        {
+          "name": "replace",
+          "transform": 2
+        },
+        {
+          "name": "vite:define",
+          "transform": 119
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 9
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 302,
+      "invokeCount": 1,
+      "sourceSize": 10331,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/nuxt-root.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5639
+        },
+        {
+          "name": "vite:vue",
+          "transform": 21
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 160
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5821,
+      "invokeCount": 1,
+      "sourceSize": 2279,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/route-provider.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 56
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:tree-shake-composables:transform",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 112
+        }
+      ],
+      "virtual": false,
+      "totalTime": 57,
+      "invokeCount": 1,
+      "sourceSize": 1419,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/components/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 116
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 128
+        },
+        {
+          "name": "alias",
+          "resolveId": 43
+        }
+      ],
+      "virtual": false,
+      "totalTime": 117,
+      "invokeCount": 1,
+      "sourceSize": 4019,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/error.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5770
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5770,
+      "invokeCount": 1,
+      "sourceSize": 1236,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/manifest.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 51
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 51,
+      "invokeCount": 1,
+      "sourceSize": 984,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/payload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5769
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 148
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5917,
+      "invokeCount": 1,
+      "sourceSize": 3862,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/preload.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 33
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 33,
+      "invokeCount": 1,
+      "sourceSize": 1600,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/ready.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 32
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 32,
+      "invokeCount": 1,
+      "sourceSize": 412,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/composables/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5881
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 100
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 79
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5982,
+      "invokeCount": 1,
+      "sourceSize": 5939,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/config.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 172
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 51
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 223,
+      "invokeCount": 1,
+      "sourceSize": 1574,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/entry.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:define",
+          "transform": 183
+        }
+      ],
+      "virtual": false,
+      "totalTime": 185,
+      "invokeCount": 1,
+      "sourceSize": 2290,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/middleware/manifest-route-rule.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 94,
+      "invokeCount": 1,
+      "sourceSize": 356,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/nuxt.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5543
+        },
+        {
+          "name": "replace",
+          "transform": 3
+        },
+        {
+          "name": "vite:define",
+          "transform": 337
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 11593
+        },
+        {
+          "name": "alias",
+          "resolveId": 5803
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5883,
+      "invokeCount": 1,
+      "sourceSize": 6990,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/plugins/revive-payload.server.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5715
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5715,
+      "invokeCount": 1,
+      "sourceSize": 1177,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/app/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 19
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 19,
+      "invokeCount": 1,
+      "sourceSize": 84,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/head/runtime/plugins/unhead.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5632
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 5632,
+      "invokeCount": 1,
+      "sourceSize": 1315,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/page.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 307
+        },
+        {
+          "name": "replace",
+          "transform": 1
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 308,
+      "invokeCount": 1,
+      "sourceSize": 5646,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/plugins/router.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 5667
+        },
+        {
+          "name": "replace",
+          "transform": 2
+        },
+        {
+          "name": "vite:define",
+          "transform": 6033
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 18
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 18
+        }
+      ],
+      "virtual": false,
+      "totalTime": 11738,
+      "invokeCount": 1,
+      "sourceSize": 7324,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/router.options.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 92
+        },
+        {
+          "name": "vite:define",
+          "transform": 262
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 354,
+      "invokeCount": 1,
+      "sourceSize": 1714,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/utils.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 82
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 0
+        },
+        {
+          "name": "vite:resolve",
+          "resolveId": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 82,
+      "invokeCount": 1,
+      "sourceSize": 873,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/nuxt/dist/pages/runtime/validate.js",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 153
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "vite:define",
+          "transform": 210
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        },
+        {
+          "name": "unctx:transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 365,
+      "invokeCount": 1,
+      "sourceSize": 974,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/node_modules/unctx/dist/index.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 84
+        },
+        {
+          "name": "vite:define",
+          "transform": 311
+        }
+      ],
+      "virtual": false,
+      "totalTime": 395,
+      "invokeCount": 1,
+      "sourceSize": 3878,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 171
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        }
+      ],
+      "virtual": false,
+      "totalTime": 174,
+      "invokeCount": 1,
+      "sourceSize": 1753,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 153
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 158,
+      "invokeCount": 1,
+      "sourceSize": 1753,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue?vue&type=style&index=0&scoped=67053315&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 3
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 4,
+      "invokeCount": 1,
+      "sourceSize": 245,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/about.vue?vue&type=style&index=0&scoped=67053315&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 5
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 7,
+      "invokeCount": 1,
+      "sourceSize": 245,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 193
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 194,
+      "invokeCount": 1,
+      "sourceSize": 648,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 149
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 2
+        }
+      ],
+      "virtual": false,
+      "totalTime": 154,
+      "invokeCount": 1,
+      "sourceSize": 648,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue?vue&type=style&index=0&scoped=9b63ec19&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 305
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 306,
+      "invokeCount": 1,
+      "sourceSize": 316,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/index.vue?vue&type=style&index=0&scoped=9b63ec19&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 425
+        },
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 425,
+      "invokeCount": 1,
+      "sourceSize": 316,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 208
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 209,
+      "invokeCount": 1,
+      "sourceSize": 2733,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 206
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 211,
+      "invokeCount": 1,
+      "sourceSize": 2733,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 9
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 11,
+      "invokeCount": 1,
+      "sourceSize": 698,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css?inline&used",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 9
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 10,
+      "invokeCount": 1,
+      "sourceSize": 698,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex1.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 330
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 331,
+      "invokeCount": 1,
+      "sourceSize": 624,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex1.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 158
+        },
+        {
+          "name": "vite:vue",
+          "transform": 5
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 165,
+      "invokeCount": 1,
+      "sourceSize": 624,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex2.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 322
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 324,
+      "invokeCount": 1,
+      "sourceSize": 665,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex2.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 166
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 168,
+      "invokeCount": 1,
+      "sourceSize": 665,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex3.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 332
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 333,
+      "invokeCount": 1,
+      "sourceSize": 660,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex3.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 189
+        },
+        {
+          "name": "vite:vue",
+          "transform": 3
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 194,
+      "invokeCount": 1,
+      "sourceSize": 660,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex4.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 326
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 0
+        }
+      ],
+      "virtual": false,
+      "totalTime": 327,
+      "invokeCount": 1,
+      "sourceSize": 582,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex4.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 311
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 315,
+      "invokeCount": 1,
+      "sourceSize": 582,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex7.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 315
+        },
+        {
+          "name": "vite:vue",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:components-loader",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 317,
+      "invokeCount": 1,
+      "sourceSize": 647,
+      "distSize": 0
+    },
+    {
+      "id": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/workex7.vue?macro=true",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 306
+        },
+        {
+          "name": "vite:vue",
+          "transform": 2
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        },
+        {
+          "name": "nuxt:pages-macros-transform",
+          "transform": 1
+        }
+      ],
+      "virtual": false,
+      "totalTime": 310,
+      "invokeCount": 1,
+      "sourceSize": 647,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/app-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 15
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 78,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/components.islands.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 34,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/components.plugin.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 1
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 1,
+      "invokeCount": 2,
+      "sourceSize": 117,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/css.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "ssr-styles",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 94,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/error-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 15
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 128,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/fetch.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 168,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/layouts.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 135,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/middleware.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 368,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/nuxt.config.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 1180,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/pages.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 53,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/paths.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "replace",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        },
+        {
+          "name": "alias",
+          "resolveId": 1
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 622,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/plugins/server.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 658,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/root-component.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 8
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 122,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/router.options.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 267,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/routes.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 3974,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/unhead-plugins.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 13
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 17,
+      "distSize": 0
+    },
+    {
+      "id": "virtual:nuxt:/Users/sasakimariko/afterhours-vue/nuxt-app/.nuxt/vue-router-stub.mjs",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "virtual",
+          "transform": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "virtual",
+          "resolveId": 0
+        },
+        {
+          "name": "alias",
+          "resolveId": 3
+        },
+        {
+          "name": "alias",
+          "resolveId": 2
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0,
+      "invokeCount": 2,
+      "sourceSize": 27,
+      "distSize": 0
+    }
+  ]
+}
