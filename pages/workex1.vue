@@ -7,7 +7,7 @@ export default {
       myTitle: "怪盗ロワイヤル",
       myNote: "DENAのブラウザゲームのコーディング新規ゲームのコーディングなど担当",
       mySkill:["scss","html5","javascript","angure.js"],
-      myImage:"/assets/image/portforio1.png",
+      myImage:"portforio1",
       siteUrl: "",
       myIndex:"workex1"
     }
