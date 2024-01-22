@@ -1,0 +1,288 @@
+{
+  "resolvedId": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css?inline&used",
+  "transforms": [
+    {
+      "name": "vite:vue",
+      "result": "\n .section-padding {\n    .nomal-list {\n      margin: 50px 0 0 0;\n      background-color: transparent;\n\n      .list-inner {\n        color: #a1a9b0;\n        padding: 10px;\n\n\n        .title-3 {\n          text-align: center;\n          font-size: 15px;\n          //color: #353535;\n          text-transform: uppercase;\n          margin: 0.83em 0;\n          letter-spacing: 3px;\n        }\n\n\n        p {\n          margin: 10px 0 0 0;\n          height: 40px;\n          text-align: center;\n        }\n\n        .icon {\n          text-align: center;\n          margin-bottom: 10px;\n\n          i {\n            font-size: 50px;\n          }\n\n        }\n      }\n    }\n    &.bg-gray {\n    background: #f3f5f8;\n  }\n }\n\n",
+      "start": 1705898382882,
+      "end": 1705898382882,
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue"
+        ],
+        "names": [],
+        "mappings": ";CAoEC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE;IACd,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE;MACV,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,EAAE,EAAE,EAAE,CAAC;MAClB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;;MAE7B,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE;QACV,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;QACd,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;;;QAGb,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE;UACP,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;UAClB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;UACf,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;UAChB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;UACzB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC;UAChB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC;QACrB;;;QAGA,EAAE;UACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,EAAE,EAAE,EAAE,CAAC;UAClB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;UACZ,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;QACpB;;QAEA,CAAC,CAAC,CAAC,CAAC,EAAE;UACJ,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;UAClB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;;UAEnB,EAAE;YACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;UACjB;;QAEF;MACF;IACF;IACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE;IACV,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;EACrB;CACD",
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue",
+        "sourceRoot": "",
+        "sourcesContent": [
+          "<template>\n　<div>\n  <section class=\"section-padding\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n          <h1 class=\"inner-title\">work</h1>\n        </div>\n        <div class=\"col-md-12\">\n           <WorkList />\n        </div>\n      </div>\n    </div>\n  </section>\n  <section class=\"section-padding bg-gray\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n          <h1 class=\"inner-title\">Usage experience</h1>\n        </div>\n        <div class=\"col-md-12\">\n\n          <ul class=\"nomal-list row\">\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-laptop-code\"></i>\n                </div>\n                <h3 class=\"title-3\">WEB DESIGN</h3>\n                <p>photoshop illustrator</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-code\"></i>\n                </div>\n                <h2 class=\"title-3\">WEB CODING</h2>\n                <p>HTML CSS・SASS <br> Wordpress</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fab fa-node-js\"></i>\n                </div>\n                <h2 class=\"title-3\">Java script</h2>\n                <p>jquery gulp webpack <br> Vue.js anguler.js</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-users\"></i>\n                </div>\n                <h2 class=\"title-3\">other</h2>\n                <p>github slack jira Backlog</p>\n              </div>\n            </li>\n          </ul>\n        </div>\n      </div>\n    </div>\n  </section>\n  </div>\n</template>\n\n<style scoped>\n .section-padding {\n    .nomal-list {\n      margin: 50px 0 0 0;\n      background-color: transparent;\n\n      .list-inner {\n        color: #a1a9b0;\n        padding: 10px;\n\n\n        .title-3 {\n          text-align: center;\n          font-size: 15px;\n          //color: #353535;\n          text-transform: uppercase;\n          margin: 0.83em 0;\n          letter-spacing: 3px;\n        }\n\n\n        p {\n          margin: 10px 0 0 0;\n          height: 40px;\n          text-align: center;\n        }\n\n        .icon {\n          text-align: center;\n          margin-bottom: 10px;\n\n          i {\n            font-size: 50px;\n          }\n\n        }\n      }\n    }\n    &.bg-gray {\n    background: #f3f5f8;\n  }\n }\n\n</style>\n"
+        ]
+      }
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1705898382882,
+      "end": 1705898382882,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1705898382882,
+      "end": 1705898382883,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1705898382883,
+      "end": 1705898382883,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1705898382883,
+      "end": 1705898382883,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1705898382883,
+      "end": 1705898382883,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "result": ".section-padding{.nomal-list{background-color:transparent;margin:50px 0 0;.list-inner{color:#a1a9b0;padding:10px;.title-3{font-size:15px;//color:#353535;letter-spacing:3px;margin:.83em 0;text-transform:uppercase}.title-3,p{text-align:center}p{height:40px;margin:10px 0 0}.icon{margin-bottom:10px;text-align:center;i{font-size:50px}}}}&.bg-gray{background:#f3f5f8}}",
+      "start": 1705898382883,
+      "end": 1705898382889,
+      "order": "normal",
+      "sourcemaps": {
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue",
+        "mappings": "AACC,iBACG,YAEE,4BAA6B,CAD7B,eAAkB,CAGlB,YACE,aAAc,CACd,YAAa,CAGb,SAEE,cAAe,CACf,eAAgB,CAGhB,kBAAmB,CADnB,cAAgB,CADhB,wBAGF,CAGA,WATE,iBAaF,CAJA,EAEE,WAAY,CADZ,eAGF,CAEA,MAEE,kBAAmB,CADnB,iBAAkB,CAGlB,EACE,cACF,CAEF,CACF,CACF,CACA,UACA,kBACF,CACD",
+        "names": [],
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue"
+        ],
+        "sourcesContent": [
+          "\n .section-padding {\n    .nomal-list {\n      margin: 50px 0 0 0;\n      background-color: transparent;\n\n      .list-inner {\n        color: #a1a9b0;\n        padding: 10px;\n\n\n        .title-3 {\n          text-align: center;\n          font-size: 15px;\n          //color: #353535;\n          text-transform: uppercase;\n          margin: 0.83em 0;\n          letter-spacing: 3px;\n        }\n\n\n        p {\n          margin: 10px 0 0 0;\n          height: 40px;\n          text-align: center;\n        }\n\n        .icon {\n          text-align: center;\n          margin-bottom: 10px;\n\n          i {\n            font-size: 50px;\n          }\n\n        }\n      }\n    }\n    &.bg-gray {\n    background: #f3f5f8;\n  }\n }\n\n"
+        ],
+        "version": 3
+      }
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1705898382890,
+      "end": 1705898382890,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1705898382890,
+      "end": 1705898382890,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1705898382890,
+      "end": 1705898382890,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": ".section-padding[data-v-608cd856]{.nomal-list[data-v-608cd856]{background-color:transparent;margin:50px 0 0;.list-inner[data-v-608cd856]{color:#a1a9b0;padding:10px;.title-3[data-v-608cd856]{font-size:15px;//color:#353535;letter-spacing:3px;margin:.83em 0;text-transform:uppercase}.title-3[data-v-608cd856],p[data-v-608cd856]{text-align:center}p[data-v-608cd856]{height:40px;margin:10px 0 0}.icon[data-v-608cd856]{margin-bottom:10px;text-align:center;i[data-v-608cd856]{font-size:50px}}}}&.bg-gray[data-v-608cd856]{background:#f3f5f8}}",
+      "start": 1705898382890,
+      "end": 1705898382892,
+      "order": "normal",
+      "sourcemaps": {
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue",
+        "mappings": "AAAA,kCAAiB,6BAAY,4BAA4B,CAAC,eAAe,CAAC,6BAAY,aAAa,CAAC,YAAY,CAAC,0BAAS,cAAc,CAAC,eAAe,CAAC,kBAAkB,CAAC,cAAc,CAAC,wBAAwB,CAAC,6CAAW,iBAAiB,CAAC,mBAAE,WAAW,CAAC,eAAe,CAAC,uBAAM,kBAAkB,CAAC,iBAAiB,CAAC,mBAAE,cAAc,CAAC,CAAC,CAAC,CAAC,2BAAU,kBAAkB,CAAC",
+        "names": [],
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue"
+        ],
+        "sourcesContent": [
+          null
+        ],
+        "version": 3
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1705898382892,
+      "end": 1705898382892,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898382893,
+      "end": 1705898382893,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1705898382893,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "result": "export default \".section-padding[data-v-608cd856]{.nomal-list[data-v-608cd856]{background-color:transparent;margin:50px 0 0;.list-inner[data-v-608cd856]{color:#a1a9b0;padding:10px;.title-3[data-v-608cd856]{font-size:15px;//color:#353535;letter-spacing:3px;margin:.83em 0;text-transform:uppercase}.title-3[data-v-608cd856],p[data-v-608cd856]{text-align:center}p[data-v-608cd856]{height:40px;margin:10px 0 0}.icon[data-v-608cd856]{margin-bottom:10px;text-align:center;i[data-v-608cd856]{font-size:50px}}}}&.bg-gray[data-v-608cd856]{background:#f3f5f8}}\"",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1705898382894,
+      "end": 1705898382894,
+      "order": "normal"
+    }
+  ]
+}

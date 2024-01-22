@@ -20,7 +20,7 @@ import { dirname, resolve } from 'file:///Users/sasakimariko/afterhours-vue/nuxt
 
 const inlineAppConfig = {
   "nuxt": {
-    "buildId": "21ff0c4f-5502-4713-b2e0-3b725fc0b049"
+    "buildId": "0d04d155-886a-484f-9132-6a065667d123"
   }
 };
 
@@ -712,7 +712,7 @@ const _f4b49z = eventHandler((event) => {
   return readAsset(id);
 });
 
-const _lazy_mZzyF0 = () => import('../renderer.mjs');
+const _lazy_mZzyF0 = () => import('../renderer.mjs').then(function (n) { return n.r; });
 
 const handlers = [
   { route: '', handler: _f4b49z, lazy: false, middleware: true, method: undefined },

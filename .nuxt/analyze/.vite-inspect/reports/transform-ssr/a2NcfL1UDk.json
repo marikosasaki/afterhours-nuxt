@@ -1,0 +1,288 @@
+{
+  "resolvedId": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css?inline&used",
+  "transforms": [
+    {
+      "name": "vite:vue",
+      "result": "\nhtml {\n  font-family: \"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\",Roboto, \"Helvetica Neue\", Arial, sans-serif;\n  font-size: 16px;\n  word-spacing: 1px;\n  -ms-text-size-adjust: 100%;\n  -webkit-text-size-adjust: 100%;\n  -moz-osx-font-smoothing: grayscale;\n  -webkit-font-smoothing: antialiased;\n  box-sizing: border-box;\n} \n\n",
+      "start": 1705898383238,
+      "end": 1705898383238,
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue"
+        ],
+        "names": [],
+        "mappings": ";AAqCA,CAAC,CAAC,CAAC,EAAE;EACH,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;EACzH,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;EACf,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC;EACjB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;EAC1B,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC;EAC9B,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;EAClC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;EACnC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACxB",
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue",
+        "sourceRoot": "",
+        "sourcesContent": [
+          "<script>\nexport default {\n  data() {\n    return {\n      title: \"my portforio!\",\n      name: \"mariko sasaki\",\n      hid: \"\"\n    };\n  },\n  head() {\n    return {\n      title: this.title,\n      meta: [\n        // `hid` は一意の識別子として使用されます。 `vmid` は動作しないので使わないでください。\n        {\n          hid: \"description\",\n          name: this.name,\n          content: \"My custom description\"\n        }\n      ]\n    };\n  }\n};\n</script>\n\n\n<template>\n  <div class=\"wrapper\">\n    <GlovalHeader/>\n    <slot/>\n    <GlovalFooter/>\n  </div>\n</template>\n\n\n\n<style scoped>\nhtml {\n  font-family: \"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\",Roboto, \"Helvetica Neue\", Arial, sans-serif;\n  font-size: 16px;\n  word-spacing: 1px;\n  -ms-text-size-adjust: 100%;\n  -webkit-text-size-adjust: 100%;\n  -moz-osx-font-smoothing: grayscale;\n  -webkit-font-smoothing: antialiased;\n  box-sizing: border-box;\n} \n\n</style>\n"
+        ]
+      }
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1705898383239,
+      "end": 1705898383239,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1705898383239,
+      "end": 1705898383239,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1705898383239,
+      "end": 1705898383239,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1705898383239,
+      "end": 1705898383239,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1705898383239,
+      "end": 1705898383239,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "result": "html{font-family:Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;font-size:16px;word-spacing:1px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;box-sizing:border-box}",
+      "start": 1705898383239,
+      "end": 1705898383242,
+      "order": "normal",
+      "sourcemaps": {
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue",
+        "mappings": "AACA,KACE,4GAAyH,CACzH,cAAe,CACf,gBAAiB,CACjB,yBAA0B,CAC1B,6BAA8B,CAC9B,iCAAkC,CAClC,kCAAmC,CACnC,qBACF",
+        "names": [],
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue"
+        ],
+        "sourcesContent": [
+          "\nhtml {\n  font-family: \"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\",Roboto, \"Helvetica Neue\", Arial, sans-serif;\n  font-size: 16px;\n  word-spacing: 1px;\n  -ms-text-size-adjust: 100%;\n  -webkit-text-size-adjust: 100%;\n  -moz-osx-font-smoothing: grayscale;\n  -webkit-font-smoothing: antialiased;\n  box-sizing: border-box;\n} \n\n"
+        ],
+        "version": 3
+      }
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1705898383243,
+      "end": 1705898383243,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1705898383244,
+      "end": 1705898383244,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1705898383244,
+      "end": 1705898383244,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "html[data-v-cd135bcb]{font-family:Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;font-size:16px;word-spacing:1px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;box-sizing:border-box}",
+      "start": 1705898383244,
+      "end": 1705898383244,
+      "order": "normal",
+      "sourcemaps": {
+        "file": "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue",
+        "mappings": "AAAA,sBAAK,4GAA4G,CAAC,cAAc,CAAC,gBAAgB,CAAC,yBAAyB,CAAC,6BAA6B,CAAC,iCAAiC,CAAC,kCAAkC,CAAC,qBAAqB",
+        "names": [],
+        "sources": [
+          "/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue"
+        ],
+        "sourcesContent": [
+          null
+        ],
+        "version": 3
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1705898383244,
+      "end": 1705898383244,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1705898383245,
+      "end": 1705898383245,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "result": "export default \"html[data-v-cd135bcb]{font-family:Source Sans Pro,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;font-size:16px;word-spacing:1px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;box-sizing:border-box}\"",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1705898383246,
+      "end": 1705898383246,
+      "order": "normal"
+    }
+  ]
+}
