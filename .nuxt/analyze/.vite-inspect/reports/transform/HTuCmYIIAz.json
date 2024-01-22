@@ -4,57 +4,57 @@
     {
       "name": "vite:load-fallback",
       "result": "<template>\n　<div>\n  <section class=\"section-padding\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n          <h1 class=\"inner-title\">work</h1>\n        </div>\n        <div class=\"col-md-12\">\n           <WorkList />\n        </div>\n      </div>\n    </div>\n  </section>\n  <section class=\"section-padding bg-gray\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-12\">\n          <h1 class=\"inner-title\">Usage experience</h1>\n        </div>\n        <div class=\"col-md-12\">\n\n          <ul class=\"nomal-list row\">\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-laptop-code\"></i>\n                </div>\n                <h3 class=\"title-3\">WEB DESIGN</h3>\n                <p>photoshop illustrator</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-code\"></i>\n                </div>\n                <h2 class=\"title-3\">WEB CODING</h2>\n                <p>HTML CSS・SASS <br> Wordpress</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fab fa-node-js\"></i>\n                </div>\n                <h2 class=\"title-3\">Java script</h2>\n                <p>jquery gulp webpack <br> Vue.js anguler.js</p>\n              </div>\n            </li>\n            <li class=\"col-lg-3 fade-in-item\">\n              <div class=\"list-inner\">\n                <div class=\"icon\">\n                  <i class=\"fas fa-users\"></i>\n                </div>\n                <h2 class=\"title-3\">other</h2>\n                <p>github slack jira Backlog</p>\n              </div>\n            </li>\n          </ul>\n        </div>\n      </div>\n    </div>\n  </section>\n  </div>\n</template>\n\n<style scoped>\n .section-padding {\n    .nomal-list {\n      margin: 50px 0 0 0;\n      background-color: transparent;\n\n      .list-inner {\n        color: #a1a9b0;\n        padding: 10px;\n\n\n        .title-3 {\n          text-align: center;\n          font-size: 15px;\n          //color: #353535;\n          text-transform: uppercase;\n          margin: 0.83em 0;\n          letter-spacing: 3px;\n        }\n\n\n        p {\n          margin: 10px 0 0 0;\n          height: 40px;\n          text-align: center;\n        }\n\n        .icon {\n          text-align: center;\n          margin-bottom: 10px;\n\n          i {\n            font-size: 50px;\n          }\n\n        }\n      }\n    }\n    &.bg-gray {\n    background: #f3f5f8;\n  }\n }\n\n</style>\n",
-      "start": 1705656964787,
-      "end": 1705656965199,
+      "start": 1705729852822,
+      "end": 1705729853012,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1705656965199,
-      "end": 1705656965199,
+      "start": 1705729853012,
+      "end": 1705729853012,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1705656965199,
-      "end": 1705656965199,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1705656965199,
-      "end": 1705656965199,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1705656965199,
-      "end": 1705656965199,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1705656965199,
-      "end": 1705656965199,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1705656965199,
-      "end": 1705656965200,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1705656965200,
-      "end": 1705656965200,
+      "start": 1705729853013,
+      "end": 1705729853013,
       "order": "normal"
     },
     {
       "name": "vite:vue",
       "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, createVNode as _createVNode, createTextVNode as _createTextVNode, createStaticVNode as _createStaticVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock, pushScopeId as _pushScopeId, popScopeId as _popScopeId } from \"vue\"\n\nconst _withScopeId = n => (_pushScopeId(\"data-v-608cd856\"),n=n(),_popScopeId(),n)\nconst _hoisted_1 = { class: \"section-padding\" }\nconst _hoisted_2 = { class: \"container\" }\nconst _hoisted_3 = { class: \"row\" }\nconst _hoisted_4 = /*#__PURE__*/ _withScopeId(() => /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-md-12\" }, [\n  /*#__PURE__*/_createElementVNode(\"h1\", { class: \"inner-title\" }, \"work\")\n], -1))\nconst _hoisted_5 = { class: \"col-md-12\" }\nconst _hoisted_6 = /*#__PURE__*/_createStaticVNode(\"<section class=\\\"section-padding bg-gray\\\" data-v-608cd856><div class=\\\"container\\\" data-v-608cd856><div class=\\\"row\\\" data-v-608cd856><div class=\\\"col-md-12\\\" data-v-608cd856><h1 class=\\\"inner-title\\\" data-v-608cd856>Usage experience</h1></div><div class=\\\"col-md-12\\\" data-v-608cd856><ul class=\\\"nomal-list row\\\" data-v-608cd856><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-laptop-code\\\" data-v-608cd856></i></div><h3 class=\\\"title-3\\\" data-v-608cd856>WEB DESIGN</h3><p data-v-608cd856>photoshop illustrator</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-code\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>WEB CODING</h2><p data-v-608cd856>HTML CSS・SASS <br data-v-608cd856> Wordpress</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fab fa-node-js\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>Java script</h2><p data-v-608cd856>jquery gulp webpack <br data-v-608cd856> Vue.js anguler.js</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-users\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>other</h2><p data-v-608cd856>github slack jira Backlog</p></div></li></ul></div></div></div></section>\", 1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_WorkList = _resolveComponent(\"WorkList\")\n\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _createTextVNode(\" 　\"),\n    _createElementVNode(\"div\", null, [\n      _createElementVNode(\"section\", _hoisted_1, [\n        _createElementVNode(\"div\", _hoisted_2, [\n          _createElementVNode(\"div\", _hoisted_3, [\n            _hoisted_4,\n            _createElementVNode(\"div\", _hoisted_5, [\n              _createVNode(_component_WorkList)\n            ])\n          ])\n        ])\n      ]),\n      _hoisted_6\n    ])\n  ], 64))\n}\n\nimport \"/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css\"\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render],['__scopeId',\"data-v-608cd856\"]])",
-      "start": 1705656965200,
-      "end": 1705656965202,
+      "start": 1705729853013,
+      "end": 1705729853015,
       "order": "normal",
       "sourcemaps": {
         "mappings": ""
@@ -62,153 +62,153 @@
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "nuxt:chunk-error",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1705656965202,
-      "end": 1705656965202,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1705656965203,
-      "end": 1705656965203,
+      "start": 1705729853015,
+      "end": 1705729853015,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1705656965203,
-      "end": 1705656965204,
+      "start": 1705729853015,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "nuxt:runtime-paths-dep",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "nuxt:route-injection-plugin",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
       "result": "import { default as __nuxt_component_0 } from \"/Users/sasakimariko/afterhours-vue/nuxt-app/components/WorkList.vue\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, resolveComponent as _resolveComponent, createVNode as _createVNode, createTextVNode as _createTextVNode, createStaticVNode as _createStaticVNode, Fragment as _Fragment, openBlock as _openBlock, createElementBlock as _createElementBlock, pushScopeId as _pushScopeId, popScopeId as _popScopeId } from \"vue\"\n\nconst _withScopeId = n => (_pushScopeId(\"data-v-608cd856\"),n=n(),_popScopeId(),n)\nconst _hoisted_1 = { class: \"section-padding\" }\nconst _hoisted_2 = { class: \"container\" }\nconst _hoisted_3 = { class: \"row\" }\nconst _hoisted_4 = /*#__PURE__*/ _withScopeId(() => /*#__PURE__*/_createElementVNode(\"div\", { class: \"col-md-12\" }, [\n  /*#__PURE__*/_createElementVNode(\"h1\", { class: \"inner-title\" }, \"work\")\n], -1))\nconst _hoisted_5 = { class: \"col-md-12\" }\nconst _hoisted_6 = /*#__PURE__*/_createStaticVNode(\"<section class=\\\"section-padding bg-gray\\\" data-v-608cd856><div class=\\\"container\\\" data-v-608cd856><div class=\\\"row\\\" data-v-608cd856><div class=\\\"col-md-12\\\" data-v-608cd856><h1 class=\\\"inner-title\\\" data-v-608cd856>Usage experience</h1></div><div class=\\\"col-md-12\\\" data-v-608cd856><ul class=\\\"nomal-list row\\\" data-v-608cd856><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-laptop-code\\\" data-v-608cd856></i></div><h3 class=\\\"title-3\\\" data-v-608cd856>WEB DESIGN</h3><p data-v-608cd856>photoshop illustrator</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-code\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>WEB CODING</h2><p data-v-608cd856>HTML CSS・SASS <br data-v-608cd856> Wordpress</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fab fa-node-js\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>Java script</h2><p data-v-608cd856>jquery gulp webpack <br data-v-608cd856> Vue.js anguler.js</p></div></li><li class=\\\"col-lg-3 fade-in-item\\\" data-v-608cd856><div class=\\\"list-inner\\\" data-v-608cd856><div class=\\\"icon\\\" data-v-608cd856><i class=\\\"fas fa-users\\\" data-v-608cd856></i></div><h2 class=\\\"title-3\\\" data-v-608cd856>other</h2><p data-v-608cd856>github slack jira Backlog</p></div></li></ul></div></div></div></section>\", 1)\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_WorkList = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(_Fragment, null, [\n    _createTextVNode(\" 　\"),\n    _createElementVNode(\"div\", null, [\n      _createElementVNode(\"section\", _hoisted_1, [\n        _createElementVNode(\"div\", _hoisted_2, [\n          _createElementVNode(\"div\", _hoisted_3, [\n            _hoisted_4,\n            _createElementVNode(\"div\", _hoisted_5, [\n              _createVNode(_component_WorkList)\n            ])\n          ])\n        ])\n      ]),\n      _hoisted_6\n    ])\n  ], 64))\n}\n\nimport \"/Users/sasakimariko/afterhours-vue/nuxt-app/pages/work.vue?vue&type=style&index=0&scoped=608cd856&lang.css\"\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render],['__scopeId',\"data-v-608cd856\"]])",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853016,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853016,
+      "end": 1705729853017,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853017,
+      "end": 1705729853017,
       "order": "normal"
     },
     {
       "name": "vite:reporter",
-      "start": 1705656965204,
-      "end": 1705656965204,
+      "start": 1705729853017,
+      "end": 1705729853017,
       "order": "normal"
     }
   ]

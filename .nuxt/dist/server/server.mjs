@@ -526,7 +526,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/about-9ZfPCWn3.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/about-NiUZqQfW.js").then((m) => m.default || m)
   },
   {
     name: "index",
@@ -534,7 +534,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/index-0IjKlJuy.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index-nuWKTNL0.js").then((m) => m.default || m)
   },
   {
     name: "work",
@@ -542,7 +542,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/work-tIr7RGkK.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/work-wFN9Jzbr.js").then((m) => m.default || m)
   },
   {
     name: "workex1",
@@ -550,7 +550,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/workex1-RvAf3vvE.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/workex1-ZcmeaSMo.js").then((m) => m.default || m)
   },
   {
     name: "workex2",
@@ -558,7 +558,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/workex2-gD5oRORt.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/workex2-4JLcNgzb.js").then((m) => m.default || m)
   },
   {
     name: "workex3",
@@ -566,7 +566,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/workex3-6K-mXgNc.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/workex3--Ik_hYSU.js").then((m) => m.default || m)
   },
   {
     name: "workex4",
@@ -574,7 +574,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/workex4-zELsHbFC.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/workex4-ql67Anwx.js").then((m) => m.default || m)
   },
   {
     name: "workex7",
@@ -582,7 +582,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import("./_nuxt/workex7-gs27qUMD.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/workex7-73Kgc4eM.js").then((m) => m.default || m)
   }
 ];
 const _wrapIf = (component, props, slots) => {
