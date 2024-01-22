@@ -4,69 +4,69 @@
     {
       "name": "vite:load-fallback",
       "result": "<script>\nexport default {\n  data() {\n    return {\n      title: \"my portforio!\",\n      name: \"mariko sasaki\",\n      hid: \"\"\n    };\n  },\n  head() {\n    return {\n      title: this.title,\n      meta: [\n        // `hid` は一意の識別子として使用されます。 `vmid` は動作しないので使わないでください。\n        {\n          hid: \"description\",\n          name: this.name,\n          content: \"My custom description\"\n        }\n      ]\n    };\n  }\n};\n</script>\n\n\n<template>\n  <div class=\"wrapper\">\n    <GlovalHeader/>\n    <slot/>\n    <GlovalFooter/>\n  </div>\n</template>\n\n\n\n<style scoped>\nhtml {\n  font-family: \"Source Sans Pro\", -apple-system, BlinkMacSystemFont, \"Segoe UI\",Roboto, \"Helvetica Neue\", Arial, sans-serif;\n  font-size: 16px;\n  word-spacing: 1px;\n  -ms-text-size-adjust: 100%;\n  -webkit-text-size-adjust: 100%;\n  -moz-osx-font-smoothing: grayscale;\n  -webkit-font-smoothing: antialiased;\n  box-sizing: border-box;\n} \n\n</style>\n",
-      "start": 1705898383187,
-      "end": 1705898383233,
+      "start": 1705898945697,
+      "end": 1705898945842,
       "sourcemaps": null
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945842,
+      "end": 1705898945842,
       "order": "pre"
     },
     {
       "name": "nuxt:layer-aliasing",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945842,
+      "end": 1705898945842,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945842,
+      "end": 1705898945843,
       "order": "pre"
     },
     {
       "name": "nuxt:server-devonly:transform",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945842,
+      "end": 1705898945843,
       "order": "pre"
     },
     {
       "name": "nuxt:client-fallback-auto-id",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945843,
+      "end": 1705898945843,
       "order": "pre"
     },
     {
       "name": "vite:css",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945843,
+      "end": 1705898945843,
       "order": "normal"
     },
     {
       "name": "vite:esbuild",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945843,
+      "end": 1705898945843,
       "order": "normal"
     },
     {
       "name": "vite:json",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945843,
+      "end": 1705898945843,
       "order": "normal"
     },
     {
       "name": "vite:worker",
-      "start": 1705898383233,
-      "end": 1705898383233,
+      "start": 1705898945843,
+      "end": 1705898945843,
       "order": "normal"
     },
     {
       "name": "vite:vue",
       "result": "\nconst _sfc_main = {\n  data() {\n    return {\n      title: \"my portforio!\",\n      name: \"mariko sasaki\",\n      hid: \"\"\n    };\n  },\n  head() {\n    return {\n      title: this.title,\n      meta: [\n        // `hid` は一意の識別子として使用されます。 `vmid` は動作しないので使わないでください。\n        {\n          hid: \"description\",\n          name: this.name,\n          content: \"My custom description\"\n        }\n      ]\n    };\n  }\n};\n\nimport { resolveComponent as _resolveComponent, mergeProps as _mergeProps } from \"vue\"\nimport { ssrRenderComponent as _ssrRenderComponent, ssrRenderSlot as _ssrRenderSlot, ssrRenderAttrs as _ssrRenderAttrs } from \"vue/server-renderer\"\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {\n  const _component_GlovalHeader = _resolveComponent(\"GlovalHeader\")\n  const _component_GlovalFooter = _resolveComponent(\"GlovalFooter\")\n\n  _push(`<div${_ssrRenderAttrs(_mergeProps({ class: \"wrapper\" }, _attrs))} data-v-cd135bcb>`)\n  _push(_ssrRenderComponent(_component_GlovalHeader, null, null, _parent))\n  _ssrRenderSlot(_ctx.$slots, \"default\", {}, null, _push, _parent)\n  _push(_ssrRenderComponent(_component_GlovalFooter, null, null, _parent))\n  _push(`</div>`)\n}\n\nimport \"/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css\"\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"layouts/default.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',\"data-v-cd135bcb\"]])",
-      "start": 1705898383233,
-      "end": 1705898383236,
+      "start": 1705898945843,
+      "end": 1705898945846,
       "order": "normal",
       "sourcemaps": {
         "version": 3,
@@ -83,159 +83,159 @@
     },
     {
       "name": "vite:vue-jsx",
-      "start": 1705898383236,
-      "end": 1705898383236,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1705898383236,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1705898383236,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1705898383237,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "nuxt:remove-plugin-metadata",
-      "start": 1705898383237,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "nuxt:components:imports",
-      "start": 1705898383237,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "replace",
-      "start": 1705898383237,
-      "end": 1705898383237,
+      "start": 1705898945846,
+      "end": 1705898945846,
       "order": "normal"
     },
     {
       "name": "ssr-styles",
-      "start": 1705898383237,
-      "end": 1705898383238,
+      "start": 1705898945846,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "vite:define",
-      "start": 1705898383238,
-      "end": 1705898383238,
+      "start": 1705898945849,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "vite:css-post",
-      "start": 1705898383239,
-      "end": 1705898383239,
+      "start": 1705898945849,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "vite:build-html",
-      "start": 1705898383239,
-      "end": 1705898383239,
+      "start": 1705898945849,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "vite:worker-import-meta-url",
-      "start": 1705898383239,
-      "end": 1705898383239,
+      "start": 1705898945849,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "vite:asset-import-meta-url",
-      "start": 1705898383239,
-      "end": 1705898383239,
+      "start": 1705898945849,
+      "end": 1705898945849,
       "order": "normal"
     },
     {
       "name": "commonjs",
-      "start": 1705898383241,
-      "end": 1705898383241,
+      "start": 1705898945854,
+      "end": 1705898945854,
       "order": "normal"
     },
     {
       "name": "vite:dynamic-import-vars",
-      "start": 1705898383242,
-      "end": 1705898383242,
+      "start": 1705898945855,
+      "end": 1705898945855,
       "order": "normal"
     },
     {
       "name": "vite:import-glob",
-      "start": 1705898383242,
-      "end": 1705898383242,
+      "start": 1705898945855,
+      "end": 1705898945855,
       "order": "normal"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1705898383242,
-      "end": 1705898383242,
+      "start": 1705898945856,
+      "end": 1705898945856,
       "order": "post"
     },
     {
       "name": "nuxt:composable-keys",
-      "start": 1705898383242,
-      "end": 1705898383242,
+      "start": 1705898945856,
+      "end": 1705898945856,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1705898383242,
-      "end": 1705898383244,
+      "start": 1705898945856,
+      "end": 1705898945858,
       "order": "post"
     },
     {
       "name": "nuxt:imports-transform",
-      "start": 1705898383242,
-      "end": 1705898383244,
+      "start": 1705898945856,
+      "end": 1705898945858,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1705898383244,
-      "end": 1705898383244,
+      "start": 1705898945858,
+      "end": 1705898945858,
       "order": "post"
     },
     {
       "name": "unctx:transform",
-      "start": 1705898383244,
-      "end": 1705898383244,
+      "start": 1705898945858,
+      "end": 1705898945858,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1705898383244,
-      "end": 1705898383244,
+      "start": 1705898945858,
+      "end": 1705898945859,
       "order": "post"
     },
     {
       "name": "nuxt:pages-macros-transform",
-      "start": 1705898383244,
-      "end": 1705898383244,
+      "start": 1705898945858,
+      "end": 1705898945859,
       "order": "post"
     },
     {
       "name": "nuxt:tree-shake-template",
-      "start": 1705898383244,
-      "end": 1705898383244,
+      "start": 1705898945859,
+      "end": 1705898945859,
       "order": "post"
     },
     {
       "name": "nuxt:components-loader",
       "result": "import { default as __nuxt_component_0 } from \"/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalHeader.vue\";\nimport { default as __nuxt_component_1 } from \"/Users/sasakimariko/afterhours-vue/nuxt-app/components/GlovalFooter.vue\";\n\nconst _sfc_main = {\n  data() {\n    return {\n      title: \"my portforio!\",\n      name: \"mariko sasaki\",\n      hid: \"\"\n    };\n  },\n  head() {\n    return {\n      title: this.title,\n      meta: [\n        // `hid` は一意の識別子として使用されます。 `vmid` は動作しないので使わないでください。\n        {\n          hid: \"description\",\n          name: this.name,\n          content: \"My custom description\"\n        }\n      ]\n    };\n  }\n};\n\nimport { resolveComponent as _resolveComponent, mergeProps as _mergeProps } from \"vue\"\nimport { ssrRenderComponent as _ssrRenderComponent, ssrRenderSlot as _ssrRenderSlot, ssrRenderAttrs as _ssrRenderAttrs } from \"vue/server-renderer\"\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {\n  const _component_GlovalHeader = __nuxt_component_0\n  const _component_GlovalFooter = __nuxt_component_1\n\n  _push(`<div${_ssrRenderAttrs(_mergeProps({ class: \"wrapper\" }, _attrs))} data-v-cd135bcb>`)\n  _push(_ssrRenderComponent(_component_GlovalHeader, null, null, _parent))\n  _ssrRenderSlot(_ctx.$slots, \"default\", {}, null, _push, _parent)\n  _push(_ssrRenderComponent(_component_GlovalFooter, null, null, _parent))\n  _push(`</div>`)\n}\n\nimport \"/Users/sasakimariko/afterhours-vue/nuxt-app/layouts/default.vue?vue&type=style&index=0&scoped=cd135bcb&lang.css\"\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"layouts/default.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender],['__scopeId',\"data-v-cd135bcb\"]])",
-      "start": 1705898383244,
-      "end": 1705898383245,
+      "start": 1705898945859,
+      "end": 1705898945859,
       "order": "post",
       "sourcemaps": {
         "version": 3,
@@ -248,20 +248,20 @@
     },
     {
       "name": "nuxt:tree-shake-composables:transform",
-      "start": 1705898383245,
-      "end": 1705898383245,
+      "start": 1705898945859,
+      "end": 1705898945859,
       "order": "post"
     },
     {
       "name": "vite:build-import-analysis",
-      "start": 1705898383245,
-      "end": 1705898383245,
+      "start": 1705898945859,
+      "end": 1705898945859,
       "order": "normal"
     },
     {
       "name": "vite:reporter",
-      "start": 1705898383245,
-      "end": 1705898383245,
+      "start": 1705898945860,
+      "end": 1705898945860,
       "order": "normal"
     }
   ]
