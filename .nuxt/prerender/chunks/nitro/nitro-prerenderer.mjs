@@ -20,7 +20,7 @@ import { dirname, resolve } from 'file:///Users/sasakimariko/afterhours-vue/nuxt
 
 const inlineAppConfig = {
   "nuxt": {
-    "buildId": "af6d1b2a-f2ad-4b00-b455-600c4028a4c2"
+    "buildId": "ea2636d8-8980-4e4b-8c26-0d6f78efe52f"
   }
 };
 
@@ -32,7 +32,7 @@ const _inlineRuntimeConfig = {
   "app": {
     "baseURL": "/afterhours-nuxt/",
     "buildAssetsDir": "/_nuxt/",
-    "cdnURL": "/afterhours-nuxt/"
+    "cdnURL": "https://marikosasaki.github.io/afterhours-nuxt/"
   },
   "nitro": {
     "envPrefix": "NUXT_",
@@ -712,7 +712,7 @@ const _f4b49z = eventHandler((event) => {
   return readAsset(id);
 });
 
-const _lazy_mZzyF0 = () => import('../renderer.mjs');
+const _lazy_mZzyF0 = () => import('../renderer.mjs').then(function (n) { return n.r; });
 
 const handlers = [
   { route: '', handler: _f4b49z, lazy: false, middleware: true, method: undefined },

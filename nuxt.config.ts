@@ -1,6 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+const SITE_URL = "https://marikosasaki.github.io/afterhours-nuxt/"
 export default defineNuxtConfig({
-  ssr: false,
+  ssr: true,
+  target: "static",
   app: {
     head: {
       title: process.env.npm_package_name || '',
@@ -16,7 +18,7 @@ export default defineNuxtConfig({
       script: [
       ]
     },
-    cdnURL: '/afterhours-nuxt/',
+    cdnURL: SITE_URL,
     baseURL: '/afterhours-nuxt/'
   },
   devtools: { enabled: true },
