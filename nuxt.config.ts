@@ -1,6 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: true,
   app: {
     head: {
       title: process.env.npm_package_name || '',
@@ -16,6 +15,7 @@ export default defineNuxtConfig({
       script: [
       ]
     },
+    cdnURL: '/afterhours-nuxt/',
     baseURL: '/afterhours-nuxt/'
   },
   devtools: { enabled: true },
